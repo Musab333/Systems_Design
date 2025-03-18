@@ -19,6 +19,30 @@ From the above SDLC steps, it is clear that system design acts as a backbone bec
 
 5- Learning System Design improves decision-making.
 
+# Objectives of Systems Design
+Below are the main objectives of Systems Design:
+
+1-Practicality: 
+We need a system that should be targetting the set of audiences(users) corresponding to which they are designing.
+
+2-Accuracy: 
+Above system design should be designed in such a way it fulfills nearly all requirements around which it is designed be it functional o non-functional requirements.
+
+3-Completeness: 
+System design should meet all user requirements
+
+4-Efficient: 
+The system design should be such that it should not overuse surpassing the cost of resources nor under use as it will by now we know will result in low thorough put (output) and less response time(latency).
+
+5-Reliability: 
+The system designed should be in proximity to a failure-free environment for a certain period of time.
+
+6-Optimization:
+Time and space are just likely what we do for code chunks for individual components to work in a system.
+
+7-Scalable(flexibility): 
+System design should be adaptable with time as per different user needs of customers which we know will keep on changing on time. The best example here out is the well-known firm: Nokia. It is the most important aspect while designing systems and is the result of why 1 of 100 startups succeed over the long run, the best example here out is GeeksforGeeks.
+
 # C4 Model Concepts 
 
 ![C4 model_one](https://github.com/user-attachments/assets/81b6381c-96d7-4bad-b5eb-89f016890f09)
